@@ -21,10 +21,17 @@
 
 1. 确保您的浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Greasemonkey](https://www.greasespot.net/) 扩展
 2. 点击下面的链接直接安装脚本：
+   [点击一键安装](https://raw.githubusercontent.com/styin8/NexusMailPurge/main/nexus-mail-purge.user.js)
+   
+   [镜像安装（jsDelivr）](https://cdn.jsdelivr.net/gh/styin8/NexusMailPurge@main/nexus-mail-purge.user.js)
+
+   或复制链接手动安装：
    ```
    https://raw.githubusercontent.com/styin8/NexusMailPurge/main/nexus-mail-purge.user.js
    ```
 3. 在弹出的安装页面点击"安装"按钮
+   
+   提示：如果 Raw 链接无法访问，请使用上方 jsDelivr 镜像，或在 Tampermonkey 管理面板中选择“添加新脚本”，将 `nexus-mail-purge.user.js` 内容复制粘贴后保存。
 
 ### 方法二：手动安装
 
